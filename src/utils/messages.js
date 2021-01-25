@@ -1,5 +1,3 @@
-const { text } = require("express");
-
 const generateMessage = (text) => {
     return {
         text,
